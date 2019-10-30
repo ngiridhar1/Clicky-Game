@@ -1,0 +1,15 @@
+
+.wrapper {
+  padding-top: 50px;
+  /* background: #ECEFF1; */
+  background-color: rgb(19, 192, 34);
+  /* background-image: url("/public/water.jpg"); */
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  /* padding: 20px; */
+  padding-top: 0;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}

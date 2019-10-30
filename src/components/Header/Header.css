@@ -1,0 +1,22 @@
+
+.header {
+  width: 100%;
+  font-size: 2rem;
+  /* color: #2A77AE; */
+  color: aliceblue;
+  margin-bottom: 10px;
+  background-color:black;
+  /* background-image: url("/public/water.jpg"); */
+}
+
+.title {
+  float: left;
+}
+
+.scores {
+  float: right;
+  
+}
+.score{
+  margin-left: 60%;
+}
